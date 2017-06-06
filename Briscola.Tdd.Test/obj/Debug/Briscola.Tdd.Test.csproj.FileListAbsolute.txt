@@ -1,0 +1,101 @@
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.pdb
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.exe
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Castle.Core.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Moq.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\SharpTestsEx.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.abstractions.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.assert.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.core.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.pdb
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.exe.config
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Castle.Core.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Moq.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.abstractions.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.assert.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.core.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.xml
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.csprojResolveAssemblyReference.cache
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.dll
+c:\Users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Moq.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\SharpTestsEx.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\Moq.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd.Test\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.Test.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Moq.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\SharpTestsEx.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Castle.Core.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\Moq.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.assert.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.core.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd.Test\obj\Debug\Briscola.Tdd.Test.pdb

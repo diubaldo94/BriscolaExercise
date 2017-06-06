@@ -1,0 +1,38 @@
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.csprojResolveAssemblyReference.cache
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe.config
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.pdb
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.exe
+c:\users\grapp\documents\visual studio 2017\Projects\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe.config
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\obj\Debug\Briscola.Tdd.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Administrator\Desktop\Briscola.Tdd\Briscola.Tdd\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe.config
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\obj\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\obj\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.runner.utility.net35.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\Briscola.Tdd.exe
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\Briscola.Tdd.pdb
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.core.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.core.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\Desktop\EsercizioBriscola\Briscola.Tdd\obj\Debug\Briscola.Tdd.csprojResolveAssemblyReference.cache
